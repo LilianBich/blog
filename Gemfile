@@ -51,6 +51,6 @@ gem 'simple_form'
 
 ruby '2.2.0'
 group :production do
-  gem 'rails_12factors'
+  gem 'rails_12factor'
 end
 
