@@ -48,6 +48,7 @@ end
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
 gem 'simple_form'
+gem 'country_select'
 
 ruby '2.2.0'
 group :production do
